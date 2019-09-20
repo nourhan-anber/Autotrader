@@ -672,6 +672,7 @@ a:hover, a:active {
 .main-navigation li {
 	float: left;
 	position: relative;
+	padding: 10px;
 }
 
 .main-navigation a {
